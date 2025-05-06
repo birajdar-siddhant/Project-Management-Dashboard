@@ -1,5 +1,5 @@
 # Project-Management-Dashboard
-An interactive Power BI dashboard that enables project managers to track project progress, monitor tasks, and efficiently manage resources. It visualizes key metrics, timelines, and KPIs to optimize project oversight and support data-driven decision-making.
+Interactive Power BI dashboard to visualize key project metrics and timelines, enabling effective, data-driven project oversight and management.
 
 ## Overview
 This project showcases a comprehensive project management dashboard developed using Power BI. The dashboard provides real-time insights into project timelines, task status, resource allocation, and key performance indicators (KPIs) to support efficient project tracking and decision-making.
